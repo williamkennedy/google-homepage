@@ -1,0 +1,93 @@
+body {
+	background-color: #fff;
+
+}
+.menu {
+	float: right;
+}
+
+input {
+	width: 500px;
+	height:30px;
+}
+
+li {
+	display: inline;
+	float: right;
+
+}
+.words{
+	padding-top: 10px;
+}
+.navbar{
+	width: 75px;
+	height: 25px;
+}
+.circle {
+	border-radius: 50%;
+	width: 35px;
+	height: 35px; 
+	/* width and height can be anything, as long as they're equal */
+}
+.share{
+	width: 40px;
+	
+	background-color: #e7e7e7;
+	margin-right: 10px;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	position: relative;
+}
+.search{
+	width: 815px;
+	height: 20px;
+	
+
+}
+
+.google-logo {
+	position: relative;
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 150px;
+}
+.search-button, .feeling-lucky {
+	background-color: #f1f1f1;
+	border-color: #c6c6c6; 
+	width: 100px;
+	height: 30px;
+	margin: 0 0 0 265px;
+	position: relative;
+	color: #222 !important
+}
+.feeling-lucky {
+	margin-left: 400px;
+	width: 100px;
+	margin-top: -41px;
+}
+
+.search-font{
+	font: bold 11px/27px Arial,sans-serif!important;
+	color: #222;
+	vertical-align: top;
+	position: relative;
+}
+.footer{
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	background-color: #f2f2f2;
+}
+.footer-left{
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+.footer-right{
+	float: right;
+	padding: 10px 10px 10px 10px;
+
+}
