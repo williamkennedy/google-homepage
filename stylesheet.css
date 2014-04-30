@@ -91,17 +91,19 @@ li {
 }
 .footer-left{
 	float: left;
-	padding: 10px 10px 10px 10px;
+	padding: 10px 50px 10px 10px;
 	font-size: small;
 	font-family: Arial;
 	color: #404040;
+	margin-left: -20px;
 }
 
 .footer-right{
 	float: right;
-	padding: 10px 10px 10px 10px;
+	padding: 10px 25px 10px 10px;
 	font-size: small;
 	font-family: Arial;
 	color: #404040;
+	margin-right:25px;
 
 }
